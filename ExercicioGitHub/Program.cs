@@ -9,9 +9,8 @@ namespace ExercicioGitHub {
             
             Console.WriteLine("Olá Mundo!!");
             Console.WriteLine("Tudo bem com você? ");
-            
+            Console.WriteLine("Tenha um ótimo dia");
 
-            
         }
     }
 }
